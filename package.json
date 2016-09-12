@@ -1,0 +1,24 @@
+{
+  "name": "kumar-resume",
+  "version": "1.0.0",
+  "description": "test repo for kumar resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prashanth000mj/kumar-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prashanth000mj/kumar-resume/issues"
+  },
+  "homepage": "https://github.com/prashanth000mj/kumar-resume#readme",
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "react": "^15.3.1",
+    "requirejs": "^2.3.1"
+  }
+}
